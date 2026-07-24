@@ -1,0 +1,41 @@
+body{
+    background-color:#f8f5ef;
+    font-family:Tahoma, Arial, sans-serif;
+    text-align:center;
+    direction:rtl;
+}
+
+h1{
+    color:#7b2cbf;
+    font-size:42px;
+}
+
+h2{
+    color:#222;
+}
+
+p{
+    font-size:20px;
+    color:#444;
+}
+
+img{
+    width:350px;
+    border-radius:20px;
+    box-shadow:0 0 15px gray;
+}
+
+a{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 25px;
+    background:#0088cc;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-size:20px;
+}
+
+a:hover{
+    background:#006699;
+}
